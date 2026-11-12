@@ -1,0 +1,7 @@
+{
+  "name": "mk96-env",
+  "version": "1.0.0",
+  "description": "Portable Claude Code environment: sync your CLAUDE.md, rules, commands, skills, agents, hooks, mods, plugins, preferences and deny rules between machines through a git repository.",
+  "author": { "name": "Markes96" },
+  "keywords": ["claude-code", "dotfiles", "sync", "environment", "settings", "mk96"]
+}

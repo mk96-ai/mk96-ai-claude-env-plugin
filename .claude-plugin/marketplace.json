@@ -1,0 +1,11 @@
+{
+  "name": "mk96-ai-claude-env-plugin",
+  "owner": { "name": "Markes96" },
+  "plugins": [
+    {
+      "name": "mk96-env",
+      "source": "./",
+      "description": "Sync a Claude Code environment between machines through a git repository."
+    }
+  ]
+}
